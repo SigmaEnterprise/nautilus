@@ -3,195 +3,195 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://sigmaenterprise.github.io/nautilus/pt-pt/posts/post-lite-one/</loc>
+    <loc>http://localhost:44111/nautilus/pt-pt/posts/post-lite-one/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://sigmaenterprise.github.io/nautilus/posts/post-lite-one/"
+      href="http://localhost:44111/nautilus/posts/post-lite-one/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-PT"
-      href="https://sigmaenterprise.github.io/nautilus/pt-pt/posts/post-lite-one/"
+      href="http://localhost:44111/nautilus/pt-pt/posts/post-lite-one/"
     />
   </url>
   <url>
-    <loc>https://sigmaenterprise.github.io/nautilus/pt-pt/posts/post-lite-three/</loc>
+    <loc>http://localhost:44111/nautilus/pt-pt/posts/post-lite-three/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://sigmaenterprise.github.io/nautilus/posts/post-lite-three/"
+      href="http://localhost:44111/nautilus/posts/post-lite-three/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-PT"
-      href="https://sigmaenterprise.github.io/nautilus/pt-pt/posts/post-lite-three/"
+      href="http://localhost:44111/nautilus/pt-pt/posts/post-lite-three/"
     />
   </url>
   <url>
-    <loc>https://sigmaenterprise.github.io/nautilus/pt-pt/posts/post-lite-two/</loc>
+    <loc>http://localhost:44111/nautilus/pt-pt/posts/post-lite-two/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://sigmaenterprise.github.io/nautilus/posts/post-lite-two/"
+      href="http://localhost:44111/nautilus/posts/post-lite-two/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-PT"
-      href="https://sigmaenterprise.github.io/nautilus/pt-pt/posts/post-lite-two/"
+      href="http://localhost:44111/nautilus/pt-pt/posts/post-lite-two/"
     />
   </url>
   <url>
-    <loc>https://sigmaenterprise.github.io/nautilus/pt-pt/categories/blog/</loc>
+    <loc>http://localhost:44111/nautilus/pt-pt/categories/blog/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://sigmaenterprise.github.io/nautilus/categories/blog/"
+      href="http://localhost:44111/nautilus/categories/blog/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-PT"
-      href="https://sigmaenterprise.github.io/nautilus/pt-pt/categories/blog/"
+      href="http://localhost:44111/nautilus/pt-pt/categories/blog/"
     />
   </url>
   <url>
-    <loc>https://sigmaenterprise.github.io/nautilus/pt-pt/categories/</loc>
+    <loc>http://localhost:44111/nautilus/pt-pt/categories/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://sigmaenterprise.github.io/nautilus/categories/"
+      href="http://localhost:44111/nautilus/categories/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-PT"
-      href="https://sigmaenterprise.github.io/nautilus/pt-pt/categories/"
+      href="http://localhost:44111/nautilus/pt-pt/categories/"
     />
   </url>
   <url>
-    <loc>https://sigmaenterprise.github.io/nautilus/pt-pt/</loc>
+    <loc>http://localhost:44111/nautilus/pt-pt/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://sigmaenterprise.github.io/nautilus/"
+      href="http://localhost:44111/nautilus/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-PT"
-      href="https://sigmaenterprise.github.io/nautilus/pt-pt/"
+      href="http://localhost:44111/nautilus/pt-pt/"
     />
   </url>
   <url>
-    <loc>https://sigmaenterprise.github.io/nautilus/pt-pt/tags/ipsum/</loc>
+    <loc>http://localhost:44111/nautilus/pt-pt/tags/ipsum/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://sigmaenterprise.github.io/nautilus/pt-pt/tags/lorem/</loc>
+    <loc>http://localhost:44111/nautilus/pt-pt/tags/lorem/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://sigmaenterprise.github.io/nautilus/pt-pt/categories/post/</loc>
+    <loc>http://localhost:44111/nautilus/pt-pt/categories/post/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://sigmaenterprise.github.io/nautilus/categories/post/"
+      href="http://localhost:44111/nautilus/categories/post/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-PT"
-      href="https://sigmaenterprise.github.io/nautilus/pt-pt/categories/post/"
+      href="http://localhost:44111/nautilus/pt-pt/categories/post/"
     />
   </url>
   <url>
-    <loc>https://sigmaenterprise.github.io/nautilus/pt-pt/tags/post/</loc>
+    <loc>http://localhost:44111/nautilus/pt-pt/tags/post/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://sigmaenterprise.github.io/nautilus/pt-pt/tags/</loc>
+    <loc>http://localhost:44111/nautilus/pt-pt/tags/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://sigmaenterprise.github.io/nautilus/tags/"
+      href="http://localhost:44111/nautilus/tags/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-PT"
-      href="https://sigmaenterprise.github.io/nautilus/pt-pt/tags/"
+      href="http://localhost:44111/nautilus/pt-pt/tags/"
     />
   </url>
   <url>
-    <loc>https://sigmaenterprise.github.io/nautilus/pt-pt/posts/post-lite-four/</loc>
+    <loc>http://localhost:44111/nautilus/pt-pt/posts/post-lite-four/</loc>
     <lastmod>2021-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://sigmaenterprise.github.io/nautilus/posts/post-lite-four/"
+      href="http://localhost:44111/nautilus/posts/post-lite-four/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-PT"
-      href="https://sigmaenterprise.github.io/nautilus/pt-pt/posts/post-lite-four/"
+      href="http://localhost:44111/nautilus/pt-pt/posts/post-lite-four/"
     />
   </url>
   <url>
-    <loc>https://sigmaenterprise.github.io/nautilus/pt-pt/authors/</loc>
+    <loc>http://localhost:44111/nautilus/pt-pt/authors/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://sigmaenterprise.github.io/nautilus/authors/"
+      href="http://localhost:44111/nautilus/authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-PT"
-      href="https://sigmaenterprise.github.io/nautilus/pt-pt/authors/"
+      href="http://localhost:44111/nautilus/pt-pt/authors/"
     />
   </url>
   <url>
-    <loc>https://sigmaenterprise.github.io/nautilus/pt-pt/series/</loc>
+    <loc>http://localhost:44111/nautilus/pt-pt/series/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://sigmaenterprise.github.io/nautilus/series/"
+      href="http://localhost:44111/nautilus/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-PT"
-      href="https://sigmaenterprise.github.io/nautilus/pt-pt/series/"
+      href="http://localhost:44111/nautilus/pt-pt/series/"
     />
   </url>
 </urlset>

@@ -2,161 +2,161 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Nautilus</title>
-    <link>https://sigmaenterprise.github.io/nautilus/tags/</link>
+    <link>http://localhost:44111/nautilus/tags/</link>
     <description>Recent content in Tags on Nautilus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>libretechsystems@placeq.com (Gray Blowfish)</managingEditor>
-    <webMaster>libretechsystems@placeq.com (Gray Blowfish)</webMaster>
+    <managingEditor>libretechsystems@placeq.com (Libretech Systems)</managingEditor>
+    <webMaster>libretechsystems@placeq.com (Libretech Systems)</webMaster>
     <copyright>2026-2030 Libretech Systems</copyright>
-    <lastBuildDate>Sat, 17 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sigmaenterprise.github.io/nautilus/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:44111/nautilus/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>`InnerHTML`</title>
-      <link>https://sigmaenterprise.github.io/nautilus/tags/innerhtml/</link>
+      <link>http://localhost:44111/nautilus/tags/innerhtml/</link>
       <pubDate>Sat, 17 Jan 2026 00:00:00 +0000</pubDate>
-      <author>libretechsystems@placeq.com (Gray Blowfish)</author>
-      <guid>https://sigmaenterprise.github.io/nautilus/tags/innerhtml/</guid>
+      <author>libretechsystems@placeq.com (Libretech Systems)</author>
+      <guid>http://localhost:44111/nautilus/tags/innerhtml/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Argon2id</title>
-      <link>https://sigmaenterprise.github.io/nautilus/tags/argon2id/</link>
+      <link>http://localhost:44111/nautilus/tags/argon2id/</link>
       <pubDate>Sat, 17 Jan 2026 00:00:00 +0000</pubDate>
-      <author>libretechsystems@placeq.com (Gray Blowfish)</author>
-      <guid>https://sigmaenterprise.github.io/nautilus/tags/argon2id/</guid>
+      <author>libretechsystems@placeq.com (Libretech Systems)</author>
+      <guid>http://localhost:44111/nautilus/tags/argon2id/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Cryptography</title>
-      <link>https://sigmaenterprise.github.io/nautilus/tags/cryptography/</link>
+      <link>http://localhost:44111/nautilus/tags/cryptography/</link>
       <pubDate>Sat, 17 Jan 2026 00:00:00 +0000</pubDate>
-      <author>libretechsystems@placeq.com (Gray Blowfish)</author>
-      <guid>https://sigmaenterprise.github.io/nautilus/tags/cryptography/</guid>
+      <author>libretechsystems@placeq.com (Libretech Systems)</author>
+      <guid>http://localhost:44111/nautilus/tags/cryptography/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>CSP</title>
-      <link>https://sigmaenterprise.github.io/nautilus/tags/csp/</link>
+      <link>http://localhost:44111/nautilus/tags/csp/</link>
       <pubDate>Sat, 17 Jan 2026 00:00:00 +0000</pubDate>
-      <author>libretechsystems@placeq.com (Gray Blowfish)</author>
-      <guid>https://sigmaenterprise.github.io/nautilus/tags/csp/</guid>
+      <author>libretechsystems@placeq.com (Libretech Systems)</author>
+      <guid>http://localhost:44111/nautilus/tags/csp/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Dev-Teams</title>
-      <link>https://sigmaenterprise.github.io/nautilus/tags/dev-teams/</link>
+      <link>http://localhost:44111/nautilus/tags/dev-teams/</link>
       <pubDate>Sat, 17 Jan 2026 00:00:00 +0000</pubDate>
-      <author>libretechsystems@placeq.com (Gray Blowfish)</author>
-      <guid>https://sigmaenterprise.github.io/nautilus/tags/dev-teams/</guid>
+      <author>libretechsystems@placeq.com (Libretech Systems)</author>
+      <guid>http://localhost:44111/nautilus/tags/dev-teams/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>DOM-Based-XSS</title>
-      <link>https://sigmaenterprise.github.io/nautilus/tags/dom-based-xss/</link>
+      <link>http://localhost:44111/nautilus/tags/dom-based-xss/</link>
       <pubDate>Sat, 17 Jan 2026 00:00:00 +0000</pubDate>
-      <author>libretechsystems@placeq.com (Gray Blowfish)</author>
-      <guid>https://sigmaenterprise.github.io/nautilus/tags/dom-based-xss/</guid>
+      <author>libretechsystems@placeq.com (Libretech Systems)</author>
+      <guid>http://localhost:44111/nautilus/tags/dom-based-xss/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Groups</title>
-      <link>https://sigmaenterprise.github.io/nautilus/tags/groups/</link>
+      <link>http://localhost:44111/nautilus/tags/groups/</link>
       <pubDate>Sat, 17 Jan 2026 00:00:00 +0000</pubDate>
-      <author>libretechsystems@placeq.com (Gray Blowfish)</author>
-      <guid>https://sigmaenterprise.github.io/nautilus/tags/groups/</guid>
+      <author>libretechsystems@placeq.com (Libretech Systems)</author>
+      <guid>http://localhost:44111/nautilus/tags/groups/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Liabilities</title>
-      <link>https://sigmaenterprise.github.io/nautilus/tags/liabilities/</link>
+      <link>http://localhost:44111/nautilus/tags/liabilities/</link>
       <pubDate>Sat, 17 Jan 2026 00:00:00 +0000</pubDate>
-      <author>libretechsystems@placeq.com (Gray Blowfish)</author>
-      <guid>https://sigmaenterprise.github.io/nautilus/tags/liabilities/</guid>
+      <author>libretechsystems@placeq.com (Libretech Systems)</author>
+      <guid>http://localhost:44111/nautilus/tags/liabilities/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>NIP-29</title>
-      <link>https://sigmaenterprise.github.io/nautilus/tags/nip-29/</link>
+      <link>http://localhost:44111/nautilus/tags/nip-29/</link>
       <pubDate>Sat, 17 Jan 2026 00:00:00 +0000</pubDate>
-      <author>libretechsystems@placeq.com (Gray Blowfish)</author>
-      <guid>https://sigmaenterprise.github.io/nautilus/tags/nip-29/</guid>
+      <author>libretechsystems@placeq.com (Libretech Systems)</author>
+      <guid>http://localhost:44111/nautilus/tags/nip-29/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>PBKDF2</title>
-      <link>https://sigmaenterprise.github.io/nautilus/tags/pbkdf2/</link>
+      <link>http://localhost:44111/nautilus/tags/pbkdf2/</link>
       <pubDate>Sat, 17 Jan 2026 00:00:00 +0000</pubDate>
-      <author>libretechsystems@placeq.com (Gray Blowfish)</author>
-      <guid>https://sigmaenterprise.github.io/nautilus/tags/pbkdf2/</guid>
+      <author>libretechsystems@placeq.com (Libretech Systems)</author>
+      <guid>http://localhost:44111/nautilus/tags/pbkdf2/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Sanitizer</title>
-      <link>https://sigmaenterprise.github.io/nautilus/tags/sanitizer/</link>
+      <link>http://localhost:44111/nautilus/tags/sanitizer/</link>
       <pubDate>Sat, 17 Jan 2026 00:00:00 +0000</pubDate>
-      <author>libretechsystems@placeq.com (Gray Blowfish)</author>
-      <guid>https://sigmaenterprise.github.io/nautilus/tags/sanitizer/</guid>
+      <author>libretechsystems@placeq.com (Libretech Systems)</author>
+      <guid>http://localhost:44111/nautilus/tags/sanitizer/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Trusted-Types</title>
-      <link>https://sigmaenterprise.github.io/nautilus/tags/trusted-types/</link>
+      <link>http://localhost:44111/nautilus/tags/trusted-types/</link>
       <pubDate>Sat, 17 Jan 2026 00:00:00 +0000</pubDate>
-      <author>libretechsystems@placeq.com (Gray Blowfish)</author>
-      <guid>https://sigmaenterprise.github.io/nautilus/tags/trusted-types/</guid>
+      <author>libretechsystems@placeq.com (Libretech Systems)</author>
+      <guid>http://localhost:44111/nautilus/tags/trusted-types/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Vault</title>
-      <link>https://sigmaenterprise.github.io/nautilus/tags/vault/</link>
+      <link>http://localhost:44111/nautilus/tags/vault/</link>
       <pubDate>Sat, 17 Jan 2026 00:00:00 +0000</pubDate>
-      <author>libretechsystems@placeq.com (Gray Blowfish)</author>
-      <guid>https://sigmaenterprise.github.io/nautilus/tags/vault/</guid>
+      <author>libretechsystems@placeq.com (Libretech Systems)</author>
+      <guid>http://localhost:44111/nautilus/tags/vault/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>WebCryptoAPI</title>
-      <link>https://sigmaenterprise.github.io/nautilus/tags/webcryptoapi/</link>
+      <link>http://localhost:44111/nautilus/tags/webcryptoapi/</link>
       <pubDate>Sat, 17 Jan 2026 00:00:00 +0000</pubDate>
-      <author>libretechsystems@placeq.com (Gray Blowfish)</author>
-      <guid>https://sigmaenterprise.github.io/nautilus/tags/webcryptoapi/</guid>
+      <author>libretechsystems@placeq.com (Libretech Systems)</author>
+      <guid>http://localhost:44111/nautilus/tags/webcryptoapi/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>ZeroKnowledge</title>
-      <link>https://sigmaenterprise.github.io/nautilus/tags/zeroknowledge/</link>
+      <link>http://localhost:44111/nautilus/tags/zeroknowledge/</link>
       <pubDate>Sat, 17 Jan 2026 00:00:00 +0000</pubDate>
-      <author>libretechsystems@placeq.com (Gray Blowfish)</author>
-      <guid>https://sigmaenterprise.github.io/nautilus/tags/zeroknowledge/</guid>
+      <author>libretechsystems@placeq.com (Libretech Systems)</author>
+      <guid>http://localhost:44111/nautilus/tags/zeroknowledge/</guid>
       <description></description>
       
     </item>
