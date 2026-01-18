@@ -1,7 +1,13 @@
 #:schema node_modules/wrangler/config-schema.json
 name = "nautilus"
 compatibility_date = "2026-01-18"
-pages_build_output_dir = "./public"
+directory = "./public"
+not_found_handlin = "404-page"
 
 [vars]
 HUGO_VERSION = "0.154.5"
+
+[build]
+command = "./build.sh"
+
+
