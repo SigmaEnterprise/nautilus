@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://sigmaenterprise.github.io/studious-lamp/sitemap.xml
+Sitemap: https://sigmaenterprise.github.io/nautilus/sitemap.xml
