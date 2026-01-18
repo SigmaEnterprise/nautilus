@@ -1,0 +1,14 @@
+#:schema node_modules/wrangler/config-schema.json
+name = "nautilus"
+compatibility_date = "2026-01-18"
+
+# The directory where Hugo generates your site (usually /public)
+pages_build_output_dir = "./public"
+
+[vars]
+# You can set your Hugo version here
+HUGO_VERSION = "v0.154.5"
+
+[build]
+# The command Cloudflare runs to build your site
+command = "hugo --minify"
