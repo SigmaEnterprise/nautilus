@@ -4,7 +4,7 @@ summaryLength = 30
 buildDrafts = false
 buildFuture = false
 enableEmoji = true
-baseURL = ""
+baseURL = "https://sigmaenterprise.github.io/studious-lamp/"
 
 [pagination]
 pagerSize = 10
