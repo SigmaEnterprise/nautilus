@@ -2,14 +2,14 @@
 name = "nautilus"
 compatibility_date = "2026-01-18"
 
-# In 2026, 'assets' is a top-level object
 [assets]
+# Keep the directory, but REMOVE the binding line
 directory = "./public"
-binding = "ASSETS"
+not_found_handling = "404-page"
+html_handling = "auto-trailing-slash"
 
 [vars]
 HUGO_VERSION = "0.154.5"
 
 [build]
-# This is the 'Sovereign' way: let Wrangler run the script
 command = "chmod +x build.sh && ./build.sh"
